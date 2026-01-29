@@ -1,11 +1,12 @@
 Make,Volume,Doors,Style
-Tesla,135.2,5,SUV
+Tesla,135.2,4,SUV
 Jeep,72.4,4,Jeep
 Toyota,101.4,4,Sedan
-Porsche,145,5,SUV
+Porsche,145,4,SUV
 Jeep,53.9,2,Jeep
-Porsche,137.3,5,SUV
+Porsche,137.3,4,SUV
 Audi,100.8,4,Sedan
-BMW,131.5,5,SUV
+BMW,131.5,4,SUV
 Toyota,98,4,Pickup
+
 Volkswagen,94.7,4,Sedan
